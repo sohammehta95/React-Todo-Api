@@ -1,7 +1,9 @@
 # React-Todo-Api
 A REST api to fetch data for the react todo application
 
+Link: https://react-todo-api.herokuapp.com/  
 
-The Api endpoints are:
+
+The api endpoints are:  
 
 ![api](api.png)
